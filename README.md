@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 <img src= "https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width = "10%"/>, I'm Kanishka Sah</h1> 
-<h3 align="center">A passionate 3rd year AI-ML student at GGSIPU, Delhi.  ML enthusiast , interested in Data Analyst and SDE. Contributor-GSSoc'23</h3>
+<h3 align="center">A passionate 3rd year AI-ML student at GGSIPU, Delhi.  ML enthusiast , interested in Data Analyst and Data Science intership. Contributor-GSSoc'23</h3>
 
  <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px">
  
@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **Data Analyst skills**
 
-- 🌱 I’m currently learning **PowerBi, DSA in C++**
+- 🌱 I’m currently learning **Docker, DL, DSA in C++**
 
 - 👯 I’m looking to collaborate on **Frontend and ML Projects**
-
-- 🤝 I’m looking for help with **Open source Contribution**
 
 - 📫 How to reach me **kanishkasah2003@gmail.com**
 
