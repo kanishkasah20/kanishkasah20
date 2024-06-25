@@ -2,6 +2,7 @@
 <h3 align="center">A passionate 3rd year AI-ML student at GGSIPU, Delhi.  ML enthusiast , interested in Data Science intership. Contributor-GSSoc'23</h3>
 
  <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px">
+
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkasah20&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkasah20" /> </p>
